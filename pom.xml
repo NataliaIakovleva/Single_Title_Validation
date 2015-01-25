@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.QA</mainClass>
+							<mainClass>core.QA.HtmlUnit</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
